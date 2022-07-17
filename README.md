@@ -2,7 +2,7 @@
 
 For neovim auto-complete.
 
-Use with [neovim config files](https://github.com/eric8979/vimrc)
+Use with my [neovim config files](https://github.com/eric8979/vimrc)
 
 ## Structure
 
